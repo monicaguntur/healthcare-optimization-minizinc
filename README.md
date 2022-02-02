@@ -265,11 +265,11 @@ health care service to the people.</p></li>
 optimal number of facilities for each facility type, across the 
 districts are listed below -</p></li>
 </ul>
-<p>SC <img src="1.png"></p>
-<p>PHC <img src="2.png"></p>
-<p>CHC <img src="3.png"></p>
-<p>SDH <img src="4.png"></p>
-<p>DH <img src="5.png"></p>
+<p>SC  <img src="images/1.png"></p>
+<p>PHC <img src="images/2.png"></p>
+<p>CHC <img src="images/3.png"></p>
+<p>SDH <img src="images/4.png"></p>
+<p>DH  <img src="images/5.png"></p>
 </div>
 <div id="references" class="section level3">
 <h3 class="hasAnchor">References<a href="#references" class="anchor-section"></a></h3>
